@@ -1,4 +1,4 @@
-# Torch
+# PyTorch - ResNet50 Image Classification.
 PyTorch
 This Repository is for a classification task completed with pytorch. 
 We're classifying pneumonia xrays.
